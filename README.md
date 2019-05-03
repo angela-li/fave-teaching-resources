@@ -3,14 +3,14 @@ A list of some of my favorite resources for teaching technology, R, and other th
 
 Please add any resources with a pull request, if you so desire!
 
-Sample curriculum:
+## Sample curriculum
 
 - [Introduction to Data Science](http://www2.stat.duke.edu/courses/Spring18/Sta199/), Mine Centinkaya-Rundel: from the creator of the [data-science-in-a-box curriculum](https://github.com/rstudio-education/datascience-box), this is fantastic! And her other courses [here](http://www2.stat.duke.edu/~mc301/teaching/)...
 - [Data Science in A Box Curriculum](https://github.com/rstudio-education/datascience-box): as mentioned above, by RStudio
 - [Computing for the Social Sciences](https://cfss.uchicago.edu/), Ben Soltoff: this is one of the first data analysis open source curricula to come out of the MACSS program at UChicago
 - An [index of courses using R](https://github.com/rstudio-education/rstats-ed), put together by RStudio
 
-Pedagogy and teaching tech:
+## Pedagogy and teaching tech
 
 - [Teaching Tech Together](http://teachtogether.tech), Greg Wilson: the book that came out of the Software Carpentry initative; truly one of the best books I've read for teaching tech
 - [Let them eat cake (first)!](https://speakerdeck.com/minecr/let-them-eat-cake-first-0a3bbf75-f6f1-42d5-8d2f-ac2ff741611f): One idea of how to approach the data science teaching
